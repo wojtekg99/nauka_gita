@@ -4,6 +4,7 @@ echo $average;
 
 <?php
 $data = array(
+<<<<<<< HEAD
     35 => 1500,
     15 => 2500,
     30 => 150,
